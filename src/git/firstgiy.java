@@ -8,5 +8,6 @@ public class firstgiy
 		System.out.println("집에서 하기");
 		System.out.println("집에서 시도");
 		System.out.println("12345");
+		System.out.println("회사에서 연습하기");
 	}
 }
